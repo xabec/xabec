@@ -2,6 +2,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=xabec&theme=onedark&date_format=%5BY%20%5DM%20j)](https://github.com/xabec)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xabec)](https://github.com/xabec)
+
 <!--
 **xabec/xabec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
